@@ -8,7 +8,7 @@ Neural operators are fast surrogates for dynamical systems but, when trained wit
 - **Forecasting**
 - **Sparse flow reconstruction**
 
-**Status:** Under review and actively evolving. **Stay tuned for updates and code releases.** ⭐
+## 🚀 Status: Under review and actively evolving. **Stay tuned for updates and code releases.** ⭐
 
 
 ## Citing This Work
@@ -16,14 +16,9 @@ Neural operators are fast surrogates for dynamical systems but, when trained wit
 If you find this work useful, please cite:
 
 ```bibtex
-@article{oommen2024integrating,
-  author = {Oommen, Vivek  and Bora, Aniruddha  and Zhang, Zhen  and Karniadakis, George Em },
-  title = {Integrating neural operators with diffusion models improves spectral representation in turbulence modelling},
-  journal = {Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences},
-  volume = {481},
-  number = {2309},
-  pages = {20240819},
-  year = {2025},
-  doi = {10.1098/rspa.2024.0819}
-}
+@article{oommen2025learning,
+      author={Oommen, Vivek and Khodakarami, Siavash and Bora, Aniruddha and Wang, Zhicheng and Karniadakis, George Em},
+      title={Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction},
+      journal={arXiv preprint arXiv:2509.08752},
+      year={2025}}
 ```
