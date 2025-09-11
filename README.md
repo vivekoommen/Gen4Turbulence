@@ -8,6 +8,8 @@ Neural operators are fast surrogates for dynamical systems but, when trained wit
 - **Forecasting**
 - **Sparse flow reconstruction**
 
+Check out our project page: https://vivekoommen.github.io/Gen4Turb/
+
 ## 📄 Status: Under Review & Actively Evolving  
 The paper is currently **under review**. Code, and datasets will be released soon — **stay tuned!** ⭐
 
