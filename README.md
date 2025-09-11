@@ -8,7 +8,8 @@ Neural operators are fast surrogates for dynamical systems but, when trained wit
 - **Forecasting**
 - **Sparse flow reconstruction**
 
-## 🚀 Status: Under review and actively evolving. **Stay tuned for updates and code releases.** ⭐
+## 📄 Status: Under Review & Actively Evolving  
+The paper is currently **under review**. Code, examples, and datasets will be released progressively — **stay tuned!** ⭐
 
 
 ## Citing This Work
