@@ -23,5 +23,6 @@ If you find this work useful, please cite:
       author={Oommen, Vivek and Khodakarami, Siavash and Bora, Aniruddha and Wang, Zhicheng and Karniadakis, George Em},
       title={Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction},
       journal={arXiv preprint arXiv:2509.08752},
-      year={2025}}
+      year={2025}
+      }
 ```
