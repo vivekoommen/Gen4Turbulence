@@ -1,0 +1,28 @@
+{
+    "save_dir": "runs/hit3d_128_lb1_lf4_2gpu",
+    "world_size": 1,
+    "dataset": "HIT3D",
+    "batch_size": 3,
+    "split_ratio": 0.8,
+    "worker": 0,
+    "time_cond": true,
+    "out_shape": [
+        128,
+        128,
+        128
+    ],
+    "input_channel": 4,
+    "output_channel": 4,
+    "spatial_resolution": [
+        128,
+        128,
+        128
+    ],
+    "model_type": "PreconditionedDenoiser3D",
+    "compile": false,
+    "num_heads": 8,
+    "use_mixed_precision": true,
+    "num_train_steps": 100000,
+    "device": "cuda",
+    "seed": 0
+}
